@@ -1,0 +1,29 @@
+{
+  "name": "spryker-feature/cms",
+  "description": "CMS [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/cms-block-widget": "^1.1.0",
+    "spryker-shop/cms-page": "^1.0.0",
+    "spryker/cms": "^6.6.0",
+    "spryker/cms-block": "^2.1.1",
+    "spryker/cms-block-category-connector": "^2.1.4",
+    "spryker/cms-block-category-storage": "^1.0.1",
+    "spryker/cms-block-gui": "^2.0.1",
+    "spryker/cms-block-product-connector": "^1.1.4",
+    "spryker/cms-block-product-storage": "^1.0.1",
+    "spryker/cms-block-storage": "^1.0.1",
+    "spryker/cms-collector": "^2.0.3",
+    "spryker/cms-content-widget": "^1.2.1",
+    "spryker/cms-content-widget-product-connector": "^1.0.3",
+    "spryker/cms-content-widget-product-group-connector": "^1.0.0",
+    "spryker/cms-content-widget-product-search-connector": "^1.0.1",
+    "spryker/cms-content-widget-product-set-connector": "^1.0.3",
+    "spryker/cms-gui": "^4.5.0",
+    "spryker/cms-page-search": "^1.0.1",
+    "spryker/cms-storage": "^1.0.1"
+  }
+}
