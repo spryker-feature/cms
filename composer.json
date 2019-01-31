@@ -8,6 +8,7 @@
     "php": ">=7.1",
     "spryker-shop/cms-block-widget": "^1.1.0",
     "spryker-shop/cms-page": "^1.0.1",
+    "spryker-shop/cms-search-page": "^1.0.0",
     "spryker/cms": "^6.7.0",
     "spryker/cms-block": "^2.1.1",
     "spryker/cms-block-category-storage": "^1.1.0",
