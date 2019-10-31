@@ -10,6 +10,7 @@
     "spryker-shop/cms-block-widget": "^1.3.0",
     "spryker-shop/cms-page": "^1.1.0",
     "spryker-shop/cms-search-page": "^1.1.0",
+    "spryker-shop/shop-cms-slot": "^0.4.0",
     "spryker/cms": "^7.5.0",
     "spryker/cms-block": "^2.3.0",
     "spryker/cms-block-category-storage": "^1.3.0",
@@ -20,9 +21,9 @@
     "spryker/cms-gui": "^5.4.0",
     "spryker/cms-page-data-import": "^1.0.0",
     "spryker/cms-page-search": "^2.1.0",
-    "spryker/cms-slot": "^0.1.0",
-    "spryker/cms-slot-data-import": "^0.1.0",
-    "spryker/cms-slot-gui": "^0.1.0",
+    "spryker/cms-slot": "^0.4.0",
+    "spryker/cms-slot-data-import": "^0.4.0",
+    "spryker/cms-slot-gui": "^0.4.0",
     "spryker/cms-storage": "^2.1.0"
   },
   "extra": {
