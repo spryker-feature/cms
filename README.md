@@ -23,5 +23,6 @@ composer require spryker-feature/cms
 - [CmsSlotBlockExtension ^1.0.0](https://github.com/spryker/cms-slot-block-extension) (Extension)
 - [CmsSlotBlockGuiExtension ^1.0.0](https://github.com/spryker/cms-slot-block-gui-extension) (Extension)
 - [CmsSlotBlockProductCategoryConnector ^1.0.0](https://github.com/spryker/cms-slot-block-product-category-connector) (Connector)
+- [CmsSlotExtension](https://github.com/spryker/cms-slot-extension) (Extension)
 - [CmsUserConnector ^1.1.0](https://github.com/spryker/cms-user-connector) (Connector)
 - [Shop.ShopCmsSlotExtension](https://github.com/spryker-shop/shop-cms-slot-extension) (Extension)
