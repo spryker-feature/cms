@@ -44,7 +44,7 @@
         "spryker/content-banner-gui": "^2.2.0",
         "spryker/content-file": "^1.0.0",
         "spryker/content-file-gui": "^2.1.0",
-        "spryker/content-gui": "^2.4.0",
+        "spryker/content-gui": "^2.5.0",
         "spryker/content-product": "^1.1.0",
         "spryker/content-product-data-import": "^0.3.0",
         "spryker/content-product-gui": "^1.1.0",
@@ -55,7 +55,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     }
 }
