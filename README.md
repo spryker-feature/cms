@@ -2,6 +2,8 @@
 
 Content management functionality
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/content-management-system/202307.0/base-shop/cms-feature-overview/cms-feature-overview.html)
+
 ## Installation
 
 ```
