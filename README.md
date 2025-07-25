@@ -32,5 +32,5 @@ composer require spryker-feature/cms
 - [CmsSlotExtension](https://github.com/spryker/cms-slot-extension) (Extension)
 - [CmsSlotLocaleConnector](https://github.com/spryker/cms-slot-locale-connector) (Connector)
 - [CmsSlotStoreConnector](https://github.com/spryker/cms-slot-store-connector) (Connector)
-- [CmsUserConnector ^1.3.0](https://github.com/spryker/cms-user-connector) (Connector)
+- [CmsUserConnector ^1.4.0](https://github.com/spryker/cms-user-connector) (Connector)
 - [Shop.ShopCmsSlotExtension](https://github.com/spryker-shop/shop-cms-slot-extension) (Extension)
