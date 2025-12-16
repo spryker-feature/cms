@@ -23,7 +23,7 @@ composer require spryker-feature/cms
 - [CmsNavigationConnector ^1.1.0](https://github.com/spryker/cms-navigation-connector) (Connector)
 - [CmsPagesContentBannersResourceRelationship ^1.0.0](https://github.com/spryker/cms-pages-content-banners-resource-relationship) (Legacy Glue)
 - [CmsPagesContentProductAbstractListsResourceRelationship ^1.0.0](https://github.com/spryker/cms-pages-content-product-abstract-lists-resource-relationship) (Legacy Glue)
-- [CmsPagesRestApi ^1.0.0](https://github.com/spryker/cms-pages-rest-api) (Legacy Glue)
+- [CmsPagesRestApi ^1.1.0](https://github.com/spryker/cms-pages-rest-api) (Legacy Glue)
 - [CmsSlotBlockCategoryConnector ^1.0.0](https://github.com/spryker/cms-slot-block-category-connector) (Connector)
 - [CmsSlotBlockCmsConnector ^1.0.0](https://github.com/spryker/cms-slot-block-cms-connector) (Connector)
 - [CmsSlotBlockExtension ^1.0.0](https://github.com/spryker/cms-slot-block-extension) (Extension)
